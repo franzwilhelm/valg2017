@@ -1,4 +1,5 @@
 # valg2017
+![The gang](http://www.vg.no/spesial/2017/valg/img/dukker_valgomat.gif)
 
 > Valg-statistikk-visning laget under valgvake med gjengen 2017
 
